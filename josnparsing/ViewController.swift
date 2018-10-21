@@ -17,7 +17,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
 
         GetJsonData()
-        
+        print("Ok")
     }
     
     func GetJsonData()
